@@ -20,7 +20,7 @@ It automatically creates both **2.4GHz** and **5GHz** Wi-Fi networks with random
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/wifi-qr-generator.git
+git clone https://github.com/Ikaros0102/wifi-qr-generator-svg.git
 cd wifi-qr-generator
 ```
 ## Install dependencies:
